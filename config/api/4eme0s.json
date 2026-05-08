@@ -1,0 +1,10 @@
+{
+  "version": "1.2.0",
+  "feature": "api",
+  "timeoutMs": 1500,
+  "retries": 2,
+  "labels": [
+    "edge",
+    "internal"
+  ]
+}

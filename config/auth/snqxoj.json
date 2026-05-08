@@ -1,0 +1,9 @@
+{
+  "version": "0.9.4",
+  "feature": "auth",
+  "timeoutMs": 1500,
+  "retries": 3,
+  "labels": [
+    "beta"
+  ]
+}

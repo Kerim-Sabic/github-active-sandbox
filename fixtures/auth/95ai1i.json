@@ -1,0 +1,38 @@
+[
+  {
+    "id": "auth-1",
+    "name": "alice",
+    "status": "archived",
+    "score": 80
+  },
+  {
+    "id": "auth-2",
+    "name": "grace",
+    "status": "active",
+    "score": 58
+  },
+  {
+    "id": "auth-3",
+    "name": "alice",
+    "status": "archived",
+    "score": 4
+  },
+  {
+    "id": "auth-4",
+    "name": "alice",
+    "status": "active",
+    "score": 12
+  },
+  {
+    "id": "auth-5",
+    "name": "alice",
+    "status": "pending",
+    "score": 3
+  },
+  {
+    "id": "auth-6",
+    "name": "dave",
+    "status": "archived",
+    "score": 14
+  }
+]

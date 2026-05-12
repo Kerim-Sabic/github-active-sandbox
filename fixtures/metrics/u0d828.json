@@ -1,0 +1,38 @@
+[
+  {
+    "id": "metrics-1",
+    "name": "frank",
+    "status": "pending",
+    "score": 47
+  },
+  {
+    "id": "metrics-2",
+    "name": "erin",
+    "status": "pending",
+    "score": 83
+  },
+  {
+    "id": "metrics-3",
+    "name": "dave",
+    "status": "pending",
+    "score": 56
+  },
+  {
+    "id": "metrics-4",
+    "name": "grace",
+    "status": "archived",
+    "score": 45
+  },
+  {
+    "id": "metrics-5",
+    "name": "erin",
+    "status": "pending",
+    "score": 40
+  },
+  {
+    "id": "metrics-6",
+    "name": "dave",
+    "status": "pending",
+    "score": 29
+  }
+]

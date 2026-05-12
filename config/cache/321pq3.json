@@ -1,0 +1,10 @@
+{
+  "version": "0.9.4",
+  "feature": "cache",
+  "timeoutMs": 5000,
+  "retries": 2,
+  "labels": [
+    "edge",
+    "internal"
+  ]
+}

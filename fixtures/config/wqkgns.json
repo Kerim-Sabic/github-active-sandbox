@@ -1,0 +1,38 @@
+[
+  {
+    "id": "config-1",
+    "name": "carol",
+    "status": "pending",
+    "score": 77
+  },
+  {
+    "id": "config-2",
+    "name": "bob",
+    "status": "active",
+    "score": 83
+  },
+  {
+    "id": "config-3",
+    "name": "bob",
+    "status": "archived",
+    "score": 3
+  },
+  {
+    "id": "config-4",
+    "name": "alice",
+    "status": "archived",
+    "score": 9
+  },
+  {
+    "id": "config-5",
+    "name": "erin",
+    "status": "active",
+    "score": 31
+  },
+  {
+    "id": "config-6",
+    "name": "bob",
+    "status": "archived",
+    "score": 46
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "queue-1",
+    "name": "erin",
+    "status": "archived",
+    "score": 74
+  },
+  {
+    "id": "queue-2",
+    "name": "grace",
+    "status": "pending",
+    "score": 31
+  },
+  {
+    "id": "queue-3",
+    "name": "bob",
+    "status": "archived",
+    "score": 63
+  },
+  {
+    "id": "queue-4",
+    "name": "frank",
+    "status": "archived",
+    "score": 26
+  },
+  {
+    "id": "queue-5",
+    "name": "erin",
+    "status": "active",
+    "score": 7
+  },
+  {
+    "id": "queue-6",
+    "name": "dave",
+    "status": "pending",
+    "score": 47
+  }
+]
